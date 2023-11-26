@@ -2,8 +2,7 @@
 
 Long story short: I'm a musician, but also a programmer!
 
-🛹 I love THPS series, mostly Tony Hawk's Underground 1/2
-
+🛹 I love THPS series, mostly Tony Hawk's Underground 1/2<br>
 And, for now, I'm heavily working on them! :3
 
 > [!TIP]
