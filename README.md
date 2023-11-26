@@ -12,7 +12,7 @@ And, for now, I'm heavily working on them! :3
 <sub>
 <p>If you wanna support me for literally any reason:
   
-<font color="#ff6600">Monero</font>: `47dReKG7c7cFqewEq7giNW7bpfLqSFYkJbG7RpCa3yZnF71oCZpVioKbzyEcAhqF3UZjiAKhQTiuNbPmvjzowk1XGQHxcCD`
+Monero: `47dReKG7c7cFqewEq7giNW7bpfLqSFYkJbG7RpCa3yZnF71oCZpVioKbzyEcAhqF3UZjiAKhQTiuNbPmvjzowk1XGQHxcCD`
 </sub>
 
 
