@@ -7,7 +7,7 @@ And, for now, I'm heavily working on them! :3
 
 > [!TIP]
 > You're probably looking for:
-> + [Cutpack](https://github.com/hardronix122/cutpack) - A tool for repacking cutscenes for Tony Hawk's Underground 1/2
+> + [Cutpack](https://github.com/hardronix122/cutpack) - A tool for repacking Tony Hawk's Underground 1/2 .cut/.cut.xbx cutscenes 
 
 <sub>
 <p>If you wanna support me for literally any reason:
