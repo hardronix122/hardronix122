@@ -8,8 +8,6 @@ Long story short: I'm a music producer and a software engineer.
 > Hey, you're probably looking for:
 > + [Cutpack](https://github.com/hardronix122/cutpack) - A tool for repacking Tony Hawk's Underground 1/2 .cut/.cut.xbx cutscenes
 
-I.. I wouldn't say I'm tired. It's more like I...<br/>
-<br/>
 **Each time someone ignores me,** <del>it hurts</del> **it's alright! :3**<br/>
 <del>And it hurts really, really bad</del>.<br/>
 **I'd rather be** <del>on my own</del> **together** <del>than</del> **each day like this**<br/>
