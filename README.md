@@ -20,6 +20,8 @@ Long story short: I'm a music producer and a software engineer.
 Do <del>you still need me?...</del><br/>
 <del>Everything goes sideways...</del><br/>
 <br/>
+And you probably won't believe me if I tell you that I don't even feel human or feel any kind of pleasure by now, but that's true.</br>
+I am just a monster.</br>
 
 
 </td>
