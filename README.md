@@ -23,6 +23,11 @@ Do <del>you still need me?...</del><br/>
 And you probably won't believe me if I tell you that I don't even feel human or feel any kind of pleasure by now, but that's true.</br>
 I am just a monster.</br>
 
+Fine, I will make this world a slightly better place...<br/>
+There's always an easy way out<br/>
+And, I look, and... What's the matter?<br/>
+I don't even know what is holding me back.<br/>
+
 
 </td>
 </tbody>
